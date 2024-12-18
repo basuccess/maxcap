@@ -12,7 +12,7 @@ import sys
 import logging  # Added import for logging
 
 # Define constants
-FILEPATH = '/Users/thouweling/Downloads'
+FILEPATH = './'
 PATTERN = 's*-*.csv'
 LOGGINGLEVEL = 'DEBUG'    # Set to DEBUG to capture all levels of logs
 
