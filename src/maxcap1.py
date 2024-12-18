@@ -1,7 +1,7 @@
 # Author: Tony Houweling
 # Company: Tarana Wireless, Inc.
 # Rights to use and modify this code are granted to authorized personnel.
-# GitHub Repository: https://github.com/basuccess/maxcap
+# GitHub Repository: https://github.com/basuccess/maxcap-project.git
 
 import os
 import pandas as pd
@@ -366,7 +366,7 @@ Example Command Line Usage:
 
 Note that only files matching the pattern BNserial#-*.csv will be processed.
 
-GitHub Repository: https://github.com/basuccess/maxcap
+GitHub Repository: https://github.com/basuccess/maxcap-project.git
 """
         print(usage_text)
         sys.exit()
