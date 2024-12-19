@@ -1,0 +1,2287 @@
+2024-12-18 00:10:39,182 - INFO - Script run started.
+2024-12-18 00:10:39,183 - INFO - Found 0 files to process
+2024-12-18 00:10:39,183 - WARNING - No results to combine and output
+2024-12-18 00:10:50,606 - INFO - Script run started.
+2024-12-18 00:10:50,606 - INFO - Found 0 files to process
+2024-12-18 00:10:50,606 - WARNING - No results to combine and output
+2024-12-18 21:36:51,227 - INFO - Script run started. Scanning directory: /Users/thouweling/Downloads
+2024-12-18 21:36:51,227 - DEBUG - Searching for files in directory: /Users/thouweling/Downloads with pattern: s*-*.csv
+2024-12-18 21:36:51,229 - INFO - Found 44 files to process in directory: /Users/thouweling/Downloads
+2024-12-18 21:36:51,229 - INFO - Processing file: /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:51,234 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:51,235 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,235 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,235 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,235 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,242 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,244 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,244 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,244 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,244 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,244 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,244 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,245 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,245 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,245 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:51,245 - INFO - Appended results from /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:51,245 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:51,247 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:51,247 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,247 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,247 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,247 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,250 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,251 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,251 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,251 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,251 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,251 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,252 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,252 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,252 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,252 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:51,252 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:51,252 - INFO - Processing file: /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:51,254 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:51,254 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,254 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,255 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,255 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,257 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,258 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,258 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,258 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,258 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,258 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,259 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,259 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,259 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,259 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:51,259 - INFO - Appended results from /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:51,259 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:51,262 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:51,262 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,262 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,262 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,262 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,264 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,266 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,266 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,266 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,266 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,266 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,266 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,267 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,267 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,267 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:51,267 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:51,267 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:51,269 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:51,269 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,269 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,269 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,269 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,272 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,273 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,273 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,273 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,273 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,273 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,273 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,274 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,274 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,274 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:51,274 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:51,274 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:51,276 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:51,276 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,276 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,276 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,276 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,279 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,280 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,280 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,280 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,280 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,281 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,281 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,281 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,281 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,281 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:51,281 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:51,281 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:51,283 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:51,284 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,284 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,284 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,284 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,286 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,288 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,288 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,288 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,288 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,288 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,288 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,289 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,289 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,289 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:51,289 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:51,289 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:51,291 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:51,291 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,291 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,291 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,291 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,294 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,295 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,295 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,295 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,295 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,295 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,296 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,296 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,296 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,296 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:51,296 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:51,296 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:51,298 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:51,298 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,299 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,299 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,299 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,301 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,303 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,303 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,303 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,303 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,303 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,303 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,304 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,304 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,304 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:51,304 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:51,304 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:51,306 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:51,306 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,306 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,306 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,307 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,309 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,310 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,311 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,311 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,311 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,311 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,311 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,311 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,312 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,312 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:51,312 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:51,312 - INFO - Processing file: /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:51,314 - DEBUG - Read 1883 rows from /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:51,314 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,314 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,314 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,314 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,317 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,318 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,318 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,318 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,318 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,318 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,319 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,319 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,319 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,319 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:51,319 - INFO - Appended results from /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:51,319 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:51,322 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:51,322 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,322 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,322 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,322 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,325 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,326 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,326 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,326 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,326 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,326 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,327 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,327 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,327 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,327 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:51,327 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:51,327 - INFO - Processing file: /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:51,329 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:51,329 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,329 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,329 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,330 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,332 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,333 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,333 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,333 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,333 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,333 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,334 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,334 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,334 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,334 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:51,334 - INFO - Appended results from /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:51,334 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:51,336 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:51,337 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,337 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,337 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,337 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,339 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,341 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,341 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,341 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,341 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,341 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,341 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,342 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,342 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,342 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:51,342 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:51,342 - INFO - Processing file: /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:51,344 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:51,344 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,344 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,344 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,344 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,347 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,348 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,348 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,348 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,348 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,348 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,349 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,349 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,349 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,349 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:51,349 - INFO - Appended results from /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:51,349 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:51,351 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:51,352 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,352 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,352 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,352 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,354 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,356 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,356 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,356 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,356 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,356 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,356 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,356 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,357 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,357 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:51,357 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:51,357 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:51,359 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:51,359 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,359 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,359 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,359 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,362 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,363 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,363 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,363 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,363 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,363 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,364 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,364 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,364 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,364 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:51,364 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:51,364 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:51,366 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:51,367 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,367 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,367 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,367 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,369 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,370 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,371 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,371 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,371 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,371 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,371 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,371 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,372 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,372 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:51,372 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:51,372 - INFO - Processing file: /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:51,374 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:51,374 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,374 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,374 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,374 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,377 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,378 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,378 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,378 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,379 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,379 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,379 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,379 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,379 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,379 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:51,379 - INFO - Appended results from /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:51,379 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:51,382 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:51,382 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,382 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,382 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,382 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,385 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,386 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,386 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,386 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,386 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,386 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,386 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,387 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,387 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,387 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:51,387 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:51,387 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:51,389 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:51,389 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,389 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,389 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,389 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,392 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,393 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,393 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,393 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,393 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,393 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,394 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,394 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,394 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,394 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:51,394 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:51,394 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:51,397 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:51,397 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,397 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,397 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,397 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,399 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,401 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,401 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,401 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,401 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,401 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,401 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,402 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,402 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,402 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:51,402 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:51,402 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:51,404 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:51,405 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,405 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,405 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,405 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,407 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,408 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,409 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,409 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,409 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,409 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,409 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,409 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,410 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,410 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:51,410 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:51,410 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:51,412 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:51,412 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,412 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,412 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,412 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,415 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,416 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,416 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,416 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,416 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,416 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,417 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,417 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,417 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,417 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:51,417 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:51,417 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:51,419 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:51,419 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,420 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,420 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,420 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,422 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,423 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,423 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,424 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,424 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,424 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,424 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,424 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,424 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,424 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:51,424 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:51,424 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:51,427 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:51,427 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,427 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,427 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,427 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,430 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,431 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,431 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,431 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,431 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,431 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,431 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,432 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,432 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,432 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:51,432 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:51,432 - INFO - Processing file: /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:51,434 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:51,434 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,434 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,434 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,434 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,437 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,438 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,438 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,438 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,438 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,438 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,439 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,439 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,439 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,439 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:51,439 - INFO - Appended results from /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:51,439 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:51,441 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:51,442 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,442 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,442 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,442 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,444 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,446 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,446 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,446 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,446 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,446 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,446 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,447 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,447 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,447 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:51,447 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:51,447 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:51,449 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:51,449 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,449 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,449 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,449 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,452 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,453 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,453 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,453 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,453 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,454 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,454 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,454 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,454 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,454 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:51,454 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:51,454 - INFO - Processing file: /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:51,457 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:51,457 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,457 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,457 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,457 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,460 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,461 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,461 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,461 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,461 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,461 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,462 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,462 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,462 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,462 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:51,462 - INFO - Appended results from /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:51,462 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:51,464 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:51,464 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,464 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,465 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,465 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,467 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,468 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,468 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,468 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,469 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,469 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,469 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,469 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,469 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,469 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:51,469 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:51,469 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:51,472 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:51,472 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,472 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,472 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,472 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,474 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,476 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,476 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,476 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,476 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,476 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,476 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,477 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,477 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,477 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:51,477 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:51,477 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:51,479 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:51,479 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,479 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,480 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,480 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,482 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,483 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,483 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,483 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,484 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,484 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,484 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,484 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,484 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,484 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:51,484 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:51,484 - INFO - Processing file: /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:51,487 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:51,487 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,487 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,487 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,487 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,490 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,491 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,491 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,491 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,491 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,491 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,492 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,492 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,492 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,492 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:51,492 - INFO - Appended results from /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:51,492 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:51,494 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:51,494 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,494 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,494 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,495 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,497 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,498 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,498 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,498 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,498 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,498 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,499 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,499 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,499 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,499 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:51,499 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:51,499 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:51,501 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:51,502 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,502 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,502 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,502 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,504 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,505 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,505 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,506 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,506 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,506 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,506 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,506 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,506 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,506 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:51,506 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:51,506 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:51,509 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:51,509 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,509 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,509 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,509 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,511 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,513 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,513 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,513 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,513 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,513 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,513 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,514 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,514 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,514 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:51,514 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:51,514 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:51,516 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:51,516 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,516 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,516 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,516 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,519 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,520 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,520 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,520 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,520 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,521 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,521 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,521 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,521 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,521 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:51,521 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:51,521 - INFO - Processing file: /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:51,524 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:51,524 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,524 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,524 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,524 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,527 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,528 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,528 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,528 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,528 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,528 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,529 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,529 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,529 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,529 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:51,529 - INFO - Appended results from /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:51,529 - INFO - Processing file: /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:51,531 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:51,531 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,531 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,531 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,532 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,534 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,535 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,535 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,535 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,535 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,536 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,536 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,536 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,536 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,537 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:51,537 - INFO - Appended results from /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:51,537 - INFO - Processing file: /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:51,539 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:51,539 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,539 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,540 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,540 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,542 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,543 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,543 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,544 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,544 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,544 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,544 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,544 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,544 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,545 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:51,545 - INFO - Appended results from /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:51,545 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:51,547 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:51,547 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,547 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,547 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,547 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,550 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,551 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,551 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,551 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,551 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,551 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,552 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,552 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,552 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,552 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:51,552 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:51,552 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:51,554 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:51,554 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,555 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,555 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,555 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,557 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,558 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,558 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,559 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,559 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,559 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,559 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,559 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,559 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,559 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:51,560 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:51,560 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:51,562 - DEBUG - Read 1721 rows from /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:51,562 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:51,562 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:51,562 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:51,562 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:51,564 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:51,565 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:51,565 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:51,565 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:51,565 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:51,565 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:51,566 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:51,566 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:51,566 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:51,566 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:51,566 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:51,570 - DEBUG - Combined all aggregated results
+2024-12-18 21:36:51,570 - DEBUG - Dropped rows with NaN in 'DL Capacity' or 'RF Utilization'
+2024-12-18 21:36:51,572 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 0' and ensured non-0 values remain integers
+2024-12-18 21:36:51,573 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 1' and ensured non-0 values remain integers
+2024-12-18 21:36:51,575 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 2' and ensured non-0 values remain integers
+2024-12-18 21:36:51,576 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 3' and ensured non-0 values remain integers
+2024-12-18 21:36:51,577 - DEBUG - Converted 0 to NaN for 'Active Connections' and ensured non-0 values remain integers
+2024-12-18 21:36:51,709 - INFO - Output aggregated data to stdout
+2024-12-18 21:36:59,438 - INFO - Script run started. Scanning directory: /Users/thouweling/Downloads
+2024-12-18 21:36:59,438 - DEBUG - Searching for files in directory: /Users/thouweling/Downloads with pattern: s*-*.csv
+2024-12-18 21:36:59,438 - INFO - Found 44 files to process in directory: /Users/thouweling/Downloads
+2024-12-18 21:36:59,438 - INFO - Processing file: /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:59,441 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:59,441 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,441 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,441 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,441 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,446 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,447 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,447 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,447 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,447 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,447 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,448 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,448 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,448 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,448 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:59,448 - INFO - Appended results from /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:36:59,448 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:59,451 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:59,451 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,451 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,451 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,451 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,454 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,455 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,455 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,455 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,455 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,455 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,456 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,456 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,456 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,456 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:59,456 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:36:59,456 - INFO - Processing file: /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:59,458 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:59,458 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,458 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,459 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,459 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,461 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,462 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,462 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,463 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,463 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,463 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,463 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,463 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,464 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,464 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:59,464 - INFO - Appended results from /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:36:59,464 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:59,465 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:59,466 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,466 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,466 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,466 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,469 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,470 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,470 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,470 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,470 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,471 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,471 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,471 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,471 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,472 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:59,472 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:36:59,472 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:59,474 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:59,475 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,475 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,475 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,475 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,477 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,479 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,479 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,479 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,479 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,479 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,480 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,480 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,480 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,480 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:59,480 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:36:59,480 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:59,482 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:59,483 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,483 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,483 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,483 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,486 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,487 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,487 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,487 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,487 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,487 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,487 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,488 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,488 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,488 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:59,488 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:36:59,488 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:59,490 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:59,491 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,491 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,491 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,491 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,493 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,495 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,495 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,495 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,495 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,495 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,495 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,496 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,496 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,496 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:59,496 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:36:59,496 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:59,498 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:59,498 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,499 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,499 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,499 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,501 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,502 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,502 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,502 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,502 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,503 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,503 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,503 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,503 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,503 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:59,503 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:36:59,503 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:59,506 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:59,506 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,506 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,506 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,506 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,508 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,510 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,510 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,510 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,510 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,510 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,510 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,511 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,511 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,511 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:59,511 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:36:59,511 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:59,514 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:59,514 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,514 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,514 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,514 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,517 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,518 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,518 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,518 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,518 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,518 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,519 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,519 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,519 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,519 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:59,519 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:36:59,519 - INFO - Processing file: /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:59,522 - DEBUG - Read 1883 rows from /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:59,522 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,522 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,522 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,522 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,525 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,526 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,526 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,526 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,526 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,526 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,527 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,527 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,527 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,527 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:59,527 - INFO - Appended results from /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:36:59,527 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:59,529 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:59,530 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,530 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,530 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,530 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,533 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,534 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,534 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,534 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,534 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,534 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,535 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,535 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,535 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,535 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:59,535 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:36:59,535 - INFO - Processing file: /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:59,537 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:59,538 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,538 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,538 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,538 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,540 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,541 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,542 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,542 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,542 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,542 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,542 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,542 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,542 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,543 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:59,543 - INFO - Appended results from /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:36:59,543 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:59,545 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:59,545 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,545 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,545 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,545 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,547 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,549 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,549 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,549 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,549 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,549 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,550 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,550 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,550 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,550 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:59,550 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:36:59,550 - INFO - Processing file: /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:59,552 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:59,553 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,553 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,553 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,553 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,556 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,557 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,557 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,557 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,557 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,557 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,558 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,558 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,558 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,558 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:59,558 - INFO - Appended results from /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:36:59,558 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:59,561 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:59,561 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,561 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,561 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,561 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,564 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,565 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,566 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,566 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,566 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,566 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,566 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,567 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,567 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,567 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:59,567 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:36:59,567 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:59,569 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:59,569 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,569 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,569 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,570 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,573 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,574 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,574 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,574 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,574 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,574 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,575 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,575 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,575 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,575 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:59,576 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:36:59,576 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:59,578 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:59,578 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,578 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,578 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,578 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,581 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,582 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,582 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,583 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,583 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,583 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,583 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,583 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,583 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,584 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:59,584 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:36:59,584 - INFO - Processing file: /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:59,592 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:59,593 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,593 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,593 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,593 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,595 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,596 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,597 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,597 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,597 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,597 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,597 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,597 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,598 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,598 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:59,598 - INFO - Appended results from /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:36:59,598 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:59,600 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:59,600 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,600 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,600 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,600 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,602 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,603 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,603 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,604 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,604 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,604 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,604 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,604 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,604 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,604 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:59,605 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:36:59,605 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:59,606 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:59,607 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,607 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,607 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,607 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,609 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,610 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,610 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,610 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,610 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,611 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,611 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,611 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,611 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,611 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:59,611 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:36:59,611 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:59,613 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:59,613 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,613 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,614 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,614 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,616 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,617 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,617 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,617 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,617 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,617 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,618 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,618 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,618 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,618 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:59,618 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:36:59,618 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:59,620 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:59,620 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,620 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,620 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,620 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,622 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,624 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,624 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,624 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,624 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,624 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,624 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,624 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,625 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,625 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:59,625 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:36:59,625 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:59,627 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:59,627 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,627 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,627 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,627 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,629 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,630 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,630 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,630 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,630 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,630 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,631 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,631 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,631 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,631 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:59,631 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:36:59,631 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:59,633 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:59,633 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,633 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,633 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,633 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,636 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,637 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,637 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,637 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,637 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,637 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,637 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,638 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,638 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,638 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:59,638 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:36:59,638 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:59,640 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:59,640 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,640 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,640 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,640 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,642 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,643 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,643 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,644 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,644 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,644 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,644 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,644 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,644 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,644 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:59,645 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:36:59,645 - INFO - Processing file: /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:59,646 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:59,647 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,647 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,647 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,647 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,649 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,650 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,650 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,650 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,650 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,651 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,651 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,651 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,651 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,651 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:59,651 - INFO - Appended results from /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:36:59,651 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:59,653 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:59,654 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,654 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,654 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,654 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,656 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,657 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,657 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,658 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,658 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,658 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,658 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,658 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,658 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,659 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:59,659 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:36:59,659 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:59,661 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:59,661 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,661 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,661 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,661 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,664 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,665 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,665 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,665 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,665 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,665 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,666 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,666 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,666 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,666 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:59,666 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:36:59,666 - INFO - Processing file: /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:59,668 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:59,668 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,668 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,668 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,668 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,671 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,672 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,672 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,672 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,672 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,672 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,672 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,673 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,673 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,673 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:59,673 - INFO - Appended results from /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:36:59,673 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:59,675 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:59,675 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,675 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,675 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,675 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,677 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,678 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,678 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,679 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,679 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,679 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,679 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,679 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,679 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,679 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:59,679 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:36:59,680 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:59,681 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:59,682 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,682 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,682 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,682 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,684 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,685 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,685 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,685 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,685 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,685 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,686 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,686 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,686 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,686 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:59,686 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:36:59,686 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:59,688 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:59,688 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,688 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,688 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,688 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,691 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,692 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,692 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,692 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,692 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,692 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,693 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,693 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,693 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,693 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:59,693 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:36:59,693 - INFO - Processing file: /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:59,695 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:59,695 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,695 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,695 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,695 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,697 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,699 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,699 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,699 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,699 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,699 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,699 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,699 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,700 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,700 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:59,700 - INFO - Appended results from /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:36:59,700 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:59,702 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:59,702 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,702 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,702 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,702 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,704 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,705 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,705 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,705 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,705 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,706 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,706 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,706 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,706 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,706 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:59,706 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:36:59,706 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:59,708 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:59,708 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,708 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,708 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,709 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,711 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,712 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,712 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,712 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,712 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,712 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,713 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,713 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,713 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,713 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:59,713 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:36:59,713 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:59,715 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:59,715 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,715 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,715 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,715 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,717 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,719 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,719 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,719 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,719 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,719 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,719 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,719 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,720 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,720 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:59,720 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:36:59,720 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:59,722 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:59,722 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,722 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,722 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,722 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,724 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,725 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,725 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,725 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,726 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,726 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,726 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,726 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,726 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,726 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:59,726 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:36:59,726 - INFO - Processing file: /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:59,728 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:59,729 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,729 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,729 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,729 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,731 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,732 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,732 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,732 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,732 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,732 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,733 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,733 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,733 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,733 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:59,733 - INFO - Appended results from /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:36:59,733 - INFO - Processing file: /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:59,735 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:59,735 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,735 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,735 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,735 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,737 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,739 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,739 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,739 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,739 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,739 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,739 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,739 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,740 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,740 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:59,740 - INFO - Appended results from /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:36:59,740 - INFO - Processing file: /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:59,742 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:59,742 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,742 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,742 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,742 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,744 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,745 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,746 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,746 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,746 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,746 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,746 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,746 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,746 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,747 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:59,747 - INFO - Appended results from /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:36:59,747 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:59,748 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:59,749 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,749 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,749 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,749 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,751 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,752 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,752 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,752 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,752 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,753 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,753 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,753 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,753 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,753 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:59,753 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:36:59,753 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:59,755 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:59,755 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,755 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,755 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,756 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,758 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,759 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,759 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,759 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,759 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,759 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,759 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,760 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,760 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,760 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:59,760 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:36:59,760 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:59,762 - DEBUG - Read 1721 rows from /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:59,762 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:36:59,762 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:36:59,763 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:36:59,763 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:36:59,765 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:36:59,765 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:36:59,765 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:36:59,765 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:36:59,765 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:36:59,765 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:36:59,766 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:36:59,766 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:36:59,766 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:36:59,766 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:59,766 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:36:59,770 - DEBUG - Combined all aggregated results
+2024-12-18 21:36:59,770 - DEBUG - Dropped rows with NaN in 'DL Capacity' or 'RF Utilization'
+2024-12-18 21:36:59,772 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 0' and ensured non-0 values remain integers
+2024-12-18 21:36:59,773 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 1' and ensured non-0 values remain integers
+2024-12-18 21:36:59,774 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 2' and ensured non-0 values remain integers
+2024-12-18 21:36:59,775 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 3' and ensured non-0 values remain integers
+2024-12-18 21:36:59,776 - DEBUG - Converted 0 to NaN for 'Active Connections' and ensured non-0 values remain integers
+2024-12-18 21:36:59,779 - DEBUG - Converted 'Time' to datetime for resampling
+2024-12-18 21:36:59,786 - DEBUG - Grouped data and identified indices for busiest periods
+2024-12-18 21:36:59,788 - INFO - Printed busiest hours to stdout
+2024-12-18 21:37:20,475 - INFO - Script run started. Scanning directory: /Users/thouweling/Downloads
+2024-12-18 21:37:20,475 - DEBUG - Searching for files in directory: /Users/thouweling/Downloads with pattern: s*-*.csv
+2024-12-18 21:37:20,476 - INFO - Found 44 files to process in directory: /Users/thouweling/Downloads
+2024-12-18 21:37:20,476 - INFO - Processing file: /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:37:20,481 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:37:20,483 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,483 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,483 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,483 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,493 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,495 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,495 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,495 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,495 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,495 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,496 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,496 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,496 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,496 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:37:20,496 - INFO - Appended results from /Users/thouweling/Downloads/s141f2235107579-tx-howar.csv
+2024-12-18 21:37:20,496 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:37:20,498 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:37:20,499 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,499 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,499 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,499 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,501 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,502 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,503 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,503 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,503 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,503 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,503 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,503 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,504 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,504 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:37:20,504 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502352-tx-lubbo.csv
+2024-12-18 21:37:20,504 - INFO - Processing file: /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:37:20,506 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:37:20,506 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,506 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,506 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,506 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,509 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,510 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,510 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,510 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,510 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,510 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,511 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,511 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,511 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,511 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:37:20,511 - INFO - Appended results from /Users/thouweling/Downloads/s134f2215006961-tx-victo.csv
+2024-12-18 21:37:20,511 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:37:20,513 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:37:20,513 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,513 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,514 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,514 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,516 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,517 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,517 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,518 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,518 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,518 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,518 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,518 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,518 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,518 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:37:20,519 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502474-tx-brown.csv
+2024-12-18 21:37:20,519 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:37:20,521 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:37:20,521 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,521 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,521 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,521 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,524 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,525 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,525 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,525 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,525 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,526 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,526 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,526 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,526 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,526 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:37:20,526 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700877-tx-tomgr.csv
+2024-12-18 21:37:20,526 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:37:20,529 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:37:20,529 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,529 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,529 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,529 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,532 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,533 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,533 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,533 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,533 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,533 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,534 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,534 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,534 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,534 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:37:20,534 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230722006-tx-colli.csv
+2024-12-18 21:37:20,534 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:37:20,536 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:37:20,537 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,537 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,537 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,537 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,539 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,541 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,541 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,541 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,541 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,541 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,541 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,542 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,542 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,542 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:37:20,542 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232208560-nm-lea-l.csv
+2024-12-18 21:37:20,542 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:37:20,544 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:37:20,544 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,544 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,544 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,544 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,547 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,548 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,548 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,548 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,548 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,548 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,549 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,549 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,549 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,549 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:37:20,549 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230507619-tx-brown.csv
+2024-12-18 21:37:20,549 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:37:20,551 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:37:20,552 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,552 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,552 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,552 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,554 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,556 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,556 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,556 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,556 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,556 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,557 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,557 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,557 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,557 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:37:20,557 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232104695-nm-eddy.csv
+2024-12-18 21:37:20,557 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:37:20,559 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:37:20,559 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,559 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,559 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,559 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,562 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,563 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,563 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,563 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,563 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,563 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,563 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,564 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,564 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,564 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:37:20,564 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230414725-tx-lubbo.csv
+2024-12-18 21:37:20,564 - INFO - Processing file: /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:37:20,566 - DEBUG - Read 1883 rows from /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:37:20,566 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,566 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,566 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,566 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,568 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,569 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,569 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,569 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,570 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,570 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,570 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,570 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,570 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,570 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:37:20,570 - INFO - Appended results from /Users/thouweling/Downloads/s141m2243400286-tx-duval.csv
+2024-12-18 21:37:20,570 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:37:20,572 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:37:20,572 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,572 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,572 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,573 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,575 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,576 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,576 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,576 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,576 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,576 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,576 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,577 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,577 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,577 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:37:20,577 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700025-tx-runne.csv
+2024-12-18 21:37:20,577 - INFO - Processing file: /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:37:20,579 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:37:20,579 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,579 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,579 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,579 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,581 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,582 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,582 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,583 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,583 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,583 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,583 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,583 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,583 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,583 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:37:20,583 - INFO - Appended results from /Users/thouweling/Downloads/s134f1214300022-tx-gray.csv
+2024-12-18 21:37:20,583 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:37:20,594 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:37:20,595 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,595 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,595 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,595 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,597 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,598 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,598 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,598 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,598 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,599 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,599 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,599 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,599 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,599 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:37:20,599 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230807397-tx-yoaku.csv
+2024-12-18 21:37:20,599 - INFO - Processing file: /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:37:20,601 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:37:20,601 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,601 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,602 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,602 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,604 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,605 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,605 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,605 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,605 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,605 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,606 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,606 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,606 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,606 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:37:20,606 - INFO - Appended results from /Users/thouweling/Downloads/s141m2241900002-ar-lonok.csv
+2024-12-18 21:37:20,606 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:37:20,608 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:37:20,608 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,608 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,608 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,608 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,610 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,611 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,612 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,612 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,612 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,612 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,612 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,612 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,612 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,613 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:37:20,613 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221902417-nm-lea-h.csv
+2024-12-18 21:37:20,613 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:37:20,614 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:37:20,615 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,615 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,615 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,615 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,617 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,618 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,618 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,618 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,618 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,618 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,619 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,619 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,619 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,619 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:37:20,619 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222201148-tx-jacks.csv
+2024-12-18 21:37:20,619 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:37:20,621 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:37:20,621 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,621 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,621 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,621 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,624 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,625 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,625 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,625 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,625 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,625 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,625 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,626 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,626 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,626 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:37:20,626 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231616851-tx-runne.csv
+2024-12-18 21:37:20,626 - INFO - Processing file: /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:37:20,628 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:37:20,628 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,628 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,628 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,628 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,630 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,631 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,631 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,632 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,632 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,632 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,632 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,632 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,632 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,632 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:37:20,632 - INFO - Appended results from /Users/thouweling/Downloads/s141f2233704536-ar-prair.csv
+2024-12-18 21:37:20,632 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:37:20,634 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:37:20,634 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,635 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,635 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,635 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,637 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,638 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,638 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,638 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,638 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,638 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,639 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,639 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,639 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,639 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:37:20,639 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222807784-nm-donaa.csv
+2024-12-18 21:37:20,639 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:37:20,641 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:37:20,641 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,641 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,641 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,641 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,643 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,644 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,645 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,645 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,645 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,645 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,645 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,645 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,646 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,646 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:37:20,646 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232409920-nm-donaa.csv
+2024-12-18 21:37:20,646 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:37:20,648 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:37:20,648 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,648 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,648 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,648 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,650 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,651 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,651 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,651 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,652 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,652 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,652 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,652 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,652 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,652 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:37:20,652 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230600776-tx-wheel.csv
+2024-12-18 21:37:20,652 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:37:20,654 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:37:20,654 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,654 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,655 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,655 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,657 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,658 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,658 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,658 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,658 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,658 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,658 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,659 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,659 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,659 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:37:20,659 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700059-tx-brown.csv
+2024-12-18 21:37:20,659 - INFO - Processing file: /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:37:20,661 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:37:20,661 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,661 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,661 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,661 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,663 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,664 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,664 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,665 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,665 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,665 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,665 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,665 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,665 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,665 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:37:20,665 - INFO - Appended results from /Users/thouweling/Downloads/s134f2222807812-tx-gray.csv
+2024-12-18 21:37:20,665 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:37:20,667 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:37:20,667 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,668 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,668 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,668 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,670 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,671 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,671 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,671 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,671 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,671 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,672 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,672 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,672 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,672 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:37:20,672 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230802702-tx-brown.csv
+2024-12-18 21:37:20,672 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:37:20,674 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:37:20,674 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,674 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,674 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,674 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,676 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,677 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,678 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,678 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,678 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,678 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,678 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,678 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,679 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,679 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:37:20,679 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230722054-tx-tomgr.csv
+2024-12-18 21:37:20,679 - INFO - Processing file: /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:37:20,680 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:37:20,681 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,681 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,681 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,681 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,683 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,684 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,684 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,684 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,684 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,684 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,685 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,685 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,685 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,685 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:37:20,685 - INFO - Appended results from /Users/thouweling/Downloads/s141f2221200001-kode3ghz.csv
+2024-12-18 21:37:20,685 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:37:20,687 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:37:20,687 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,687 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,687 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,687 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,689 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,691 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,691 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,691 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,691 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,691 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,691 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,691 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,692 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,692 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:37:20,692 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700879-tx-tomgr.csv
+2024-12-18 21:37:20,692 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:37:20,693 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:37:20,694 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,694 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,694 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,694 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,696 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,697 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,697 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,697 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,697 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,697 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,698 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,698 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,698 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,698 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:37:20,698 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232409269-ok-jacks.csv
+2024-12-18 21:37:20,698 - INFO - Processing file: /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:37:20,700 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:37:20,700 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,701 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,701 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,701 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,703 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,704 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,704 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,704 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,704 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,704 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,705 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,705 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,705 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,705 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:37:20,705 - INFO - Appended results from /Users/thouweling/Downloads/s134f2215005586-tx-victo.csv
+2024-12-18 21:37:20,705 - INFO - Processing file: /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:37:20,707 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:37:20,707 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,707 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,707 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,707 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,709 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,710 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,711 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,711 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,711 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,711 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,711 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,711 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,712 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,712 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:37:20,712 - INFO - Appended results from /Users/thouweling/Downloads/s141f2231700894-tx-reaga.csv
+2024-12-18 21:37:20,712 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:37:20,713 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:37:20,714 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,714 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,714 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,714 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,716 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,717 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,717 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,717 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,717 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,717 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,718 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,718 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,718 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,718 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:37:20,718 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230802701-tx-hockl.csv
+2024-12-18 21:37:20,718 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:37:20,720 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:37:20,720 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,720 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,721 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,721 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,723 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,725 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,725 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,725 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,725 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,725 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,725 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,725 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,726 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,726 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:37:20,726 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232115869-nm-eddy.csv
+2024-12-18 21:37:20,726 - INFO - Processing file: /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:37:20,728 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:37:20,728 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,728 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,728 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,728 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,730 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,731 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,731 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,732 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,732 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,732 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,732 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,732 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,732 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,732 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:37:20,732 - INFO - Appended results from /Users/thouweling/Downloads/s141f2233407339-ar-arkan.csv
+2024-12-18 21:37:20,733 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:37:20,734 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:37:20,734 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,735 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,735 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,735 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,737 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,738 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,738 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,738 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,738 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,738 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,739 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,739 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,739 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,739 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:37:20,739 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221900932-tx-gray.csv
+2024-12-18 21:37:20,739 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:37:20,741 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:37:20,741 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,741 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,741 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,741 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,743 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,745 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,745 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,745 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,745 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,745 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,745 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,745 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,746 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,746 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:37:20,746 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502441-tx-brown.csv
+2024-12-18 21:37:20,746 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:37:20,747 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:37:20,748 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,748 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,748 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,748 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,750 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,751 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,751 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,751 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,751 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,751 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,752 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,752 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,752 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,752 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:37:20,752 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230306007-tx-wheel.csv
+2024-12-18 21:37:20,752 - INFO - Processing file: /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:37:20,754 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:37:20,754 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,754 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,755 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,755 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,757 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,758 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,758 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,758 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,758 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,758 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,758 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,759 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,759 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,759 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:37:20,759 - INFO - Appended results from /Users/thouweling/Downloads/s134f2232304429-nm-lea-c.csv
+2024-12-18 21:37:20,759 - INFO - Processing file: /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:37:20,761 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:37:20,761 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,761 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,761 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,761 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,763 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,764 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,764 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,764 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,765 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,765 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,765 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,765 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,765 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,765 - INFO - Finished processing file: /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:37:20,765 - INFO - Appended results from /Users/thouweling/Downloads/s141m2241700128-tx-ward.csv
+2024-12-18 21:37:20,765 - INFO - Processing file: /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:37:20,767 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:37:20,767 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,767 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,768 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,768 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,770 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,771 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,771 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,771 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,771 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,771 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,771 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,772 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,772 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,772 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:37:20,772 - INFO - Appended results from /Users/thouweling/Downloads/s134f2230303566-tx-refug.csv
+2024-12-18 21:37:20,772 - INFO - Processing file: /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:37:20,774 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:37:20,774 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,774 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,774 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,774 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,777 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,778 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,778 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,778 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,778 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,778 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,778 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,778 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,779 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,779 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:37:20,779 - INFO - Appended results from /Users/thouweling/Downloads/s141f2235107553-tx-wheel.csv
+2024-12-18 21:37:20,779 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:37:20,781 - DEBUG - Read 1807 rows from /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:37:20,781 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,781 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,781 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,781 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,783 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,784 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,784 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,784 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,784 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,785 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,785 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,785 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,785 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,785 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:37:20,785 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230502447-tx-brown.csv
+2024-12-18 21:37:20,785 - INFO - Processing file: /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:37:20,787 - DEBUG - Read 1808 rows from /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:37:20,787 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,787 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,787 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,787 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,790 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,791 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,791 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,791 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,791 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,791 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,791 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,792 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,792 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,792 - INFO - Finished processing file: /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:37:20,792 - INFO - Appended results from /Users/thouweling/Downloads/s134f2221902329-nm-lea-h.csv
+2024-12-18 21:37:20,792 - INFO - Processing file: /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:37:20,794 - DEBUG - Read 1721 rows from /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:37:20,794 - DEBUG - Converted 'Bandwidth, Carrier 0' to numeric
+2024-12-18 21:37:20,794 - DEBUG - Converted 'Bandwidth, Carrier 1' to numeric
+2024-12-18 21:37:20,794 - DEBUG - Converted 'Bandwidth, Carrier 2' to numeric
+2024-12-18 21:37:20,794 - DEBUG - Converted 'Bandwidth, Carrier 3' to numeric
+2024-12-18 21:37:20,796 - DEBUG - Aggregated data with frequency 'h'
+2024-12-18 21:37:20,797 - DEBUG - Converted 'Bandwidth, Carrier 0' to integers
+2024-12-18 21:37:20,797 - DEBUG - Converted 'Bandwidth, Carrier 1' to integers
+2024-12-18 21:37:20,797 - DEBUG - Converted 'Bandwidth, Carrier 2' to integers
+2024-12-18 21:37:20,797 - DEBUG - Converted 'Bandwidth, Carrier 3' to integers
+2024-12-18 21:37:20,797 - DEBUG - Converted 'Active Connections' to integers
+2024-12-18 21:37:20,797 - DEBUG - Rounded floating columns to 3 decimals
+2024-12-18 21:37:20,797 - DEBUG - Calculated 'DL Tonnage GB'
+2024-12-18 21:37:20,798 - DEBUG - Calculated 'UL Tonnage GB'
+2024-12-18 21:37:20,798 - INFO - Finished processing file: /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:37:20,798 - INFO - Appended results from /Users/thouweling/Downloads/s141f2230311415-tx-conch.csv
+2024-12-18 21:37:20,801 - DEBUG - Combined all aggregated results
+2024-12-18 21:37:20,801 - DEBUG - Dropped rows with NaN in 'DL Capacity' or 'RF Utilization'
+2024-12-18 21:37:20,803 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 0' and ensured non-0 values remain integers
+2024-12-18 21:37:20,804 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 1' and ensured non-0 values remain integers
+2024-12-18 21:37:20,805 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 2' and ensured non-0 values remain integers
+2024-12-18 21:37:20,806 - DEBUG - Converted 0 to NaN for 'Bandwidth, Carrier 3' and ensured non-0 values remain integers
+2024-12-18 21:37:20,807 - DEBUG - Converted 0 to NaN for 'Active Connections' and ensured non-0 values remain integers
+2024-12-18 21:37:20,810 - DEBUG - Converted 'Time' to datetime for resampling
+2024-12-18 21:37:20,816 - DEBUG - Grouped data and identified indices for busiest periods
+2024-12-18 21:37:20,819 - INFO - Printed busiest hours to BHdata.csv

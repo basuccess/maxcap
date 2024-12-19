@@ -45,9 +45,10 @@ OUTPUT_FIELDS = [
     'Bandwidth, Carrier 3'
 ]
 
-def find_files(pattern):
+def find_files(pattern, directory):
     """Find all files matching the given pattern in the specified directory."""
-    return glob.glob(os.path.join(FILEPATH, pattern))
+    logging.debug(f"Searching for files in directory: {directory} with pattern: {pattern}")  # Added logging
+    return glob.glob(os.path.join(directory, pattern))
 
 def process_file(filepath, frequency):
     """Read and process each file."""
@@ -189,12 +190,17 @@ def process_file(filepath, frequency):
         logging.error(f"Error processing file {filepath}: {e}")
         return None
 
-def main(frequency, busiest, output_filename=None):  
-    logging.info("Script run started.")  # Added logging
-    all_results=[] 
+def main(frequency, busiest, output_filename=None, directory=FILEPATH):
+    logging.info(f"Script run started. Scanning directory: {directory}")  # Added logging
+    all_results = []
 
-    files= find_files(PATTERN) 
-    logging.info(f"Found {len(files)} files to process")  # Added logging
+    files = find_files(PATTERN, directory)
+    logging.info(f"Found {len(files)} files to process in directory: {directory}")  # Added logging
+
+    if not files:
+        logging.warning(f"No files found in directory: {directory} with pattern: {PATTERN}")
+        print(f"No files found in directory: {directory} with pattern: {PATTERN}")
+        return
 
     for filepath in files: 
         result_df= process_file(filepath, frequency)  
@@ -271,12 +277,20 @@ def main(frequency, busiest, output_filename=None):
                     busiest_hours["Time"] = busiest_hours["Time"].dt.strftime("%m/%d/%y %H")
                     
                     # Print all fields for the busiest hours
-                    print(busiest_hours[OUTPUT_FIELDS].to_csv(index=False))
-                    logging.info(f"Printed busiest hours for period: {busiest.capitalize()}")
+                    if output_filename:
+                        busiest_hours[OUTPUT_FIELDS].to_csv(output_filename, index=False)
+                        logging.info(f"Printed busiest hours to {output_filename}")
+                    else:
+                        print(busiest_hours[OUTPUT_FIELDS].to_csv(index=False))
+                        logging.info(f"Printed busiest hours to stdout")
         else:
             # Output aggregated data
-            combined_result[OUTPUT_FIELDS].to_csv(output_filename or sys.stdout, index=False)
-            logging.info(f"Output aggregated data to {'stdout' if not output_filename else output_filename}")  # Added logging
+            if output_filename:
+                combined_result[OUTPUT_FIELDS].to_csv(output_filename, index=False)
+                logging.info(f"Output aggregated data to {output_filename}")
+            else:
+                combined_result[OUTPUT_FIELDS].to_csv(sys.stdout, index=False)
+                logging.info(f"Output aggregated data to stdout")
     else:
         logging.warning("No results to combine and output")
 
@@ -300,6 +314,10 @@ if __name__ == "__main__":
                         choices=['day', 'week', 'month', 'year'],
                         nargs='?', const='day', default=None,
                         help='Output busiest hour based on DL Tonnage GB for specified period (d=day, w=week, m=month, y=year)')
+    
+    # Add directory argument
+    parser.add_argument('-d', '--directory', type=str, default=FILEPATH,
+                        help='Directory to scan for CSV files (default is current directory)')
     
     # Add usage argument
     parser.add_argument('-u', '--usage', action='store_true',
@@ -344,6 +362,9 @@ Command-Line Options:
     - 'm' : Month
     - 'y' : Year
 
+- -d, --directory <directory>:
+    Specify the directory to scan for CSV files (default is current directory).
+
 - -h, --help:
     Display the help message and exit.
     
@@ -364,6 +385,9 @@ Example Command Line Usage:
 4. To aggregate data weekly and save the results to output_weekly.csv:
    python your_script.py -f w -o output_weekly.csv
 
+5. To specify a different directory to scan for CSV files:
+   python your_script.py -d /path/to/directory
+
 Note that only files matching the pattern BNserial#-*.csv will be processed.
 
 GitHub Repository: https://github.com/basuccess/maxcap-project.git
@@ -371,4 +395,4 @@ GitHub Repository: https://github.com/basuccess/maxcap-project.git
         print(usage_text)
         sys.exit()
     
-    main(args.frequency, args.busiest, args.outfile)
+    main(args.frequency, args.busiest, args.outfile, args.directory)
